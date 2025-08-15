@@ -1,6 +1,6 @@
 ## Hi, I'm scratchminer!
 
-I'm a hobbyist coder and Playdate game console reverse engineer.
+I'm a programmer and Playdate game console reverse engineer.
 
 - I know: Java (using Gradle for building), Python 3, C (using CMake for building), Lua, some assembly languages
 - I'm learning: VHDL
